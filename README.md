@@ -121,9 +121,9 @@ cd __tests__/
 
 ### 👥 Authors <a name="authors"></a>
 
-👤 *Author1*
+👤 *Sohel Mujawar*
 
-- GitHub: [@stazrouti](https://github.com/stazrouti)
+- GitHub: [@stazrouti](https://github.com/Sohel-Mujawar)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
