@@ -123,7 +123,7 @@ cd __tests__/
 
 👤 *Sohel Mujawar*
 
-- GitHub: [@stazrouti](https://github.com/Sohel-Mujawar)
+- GitHub: [@sohel](https://github.com/Sohel-Mujawar)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
